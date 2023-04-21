@@ -1,3 +1,4 @@
+# 将作者原版html中连接不上的CDN全部更换为了国内可用的BootCDN，解决了之前显示不全的问题，方便大家愉快的画图。
 # [NN-SVG](http://alexlenail.me/NN-SVG/)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
